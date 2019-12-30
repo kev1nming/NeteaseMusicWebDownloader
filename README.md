@@ -23,7 +23,7 @@
 
 7.点击OpenDownloadDir，即可打开DownloadMusicDir查看下载的音乐。
 
-GitHub:
+GitHub: https://github.com/kev1nming/NeteaseMusicWebDownloader_v1.0
 
 ### Designed by [KevinMinG](https://github.com/kev1nming) and [KiraRin](https://github.com/amerin)
 
